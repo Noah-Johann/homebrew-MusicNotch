@@ -1,4 +1,4 @@
-cask "MusicNotch" do
+cask "musicnotch" do
     version "0.1.0-rc.1"
     sha256 "9a4af287decc105c63d80f7ddd623ce634201df2df76fab22d1605fe8d86e773"
   
