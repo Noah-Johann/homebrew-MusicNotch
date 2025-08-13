@@ -5,6 +5,7 @@ cask "musicnotch" do
     url "https://github.com/Noah-Johann/MusicNotch/releases/latest/download/MusicNotch.dmg"
     name "MusicNotch"
     desc "Make your notch do so many things"
+    homepage "https://github.com/Noah-Johann/MusicNotch"
   
     livecheck do
       url :url
