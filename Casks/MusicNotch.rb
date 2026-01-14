@@ -1,6 +1,6 @@
 cask "musicnotch" do
     version "0.1.5"
-    sha256 "sha256:76b3ac9858fcb2f5644716baf9e18afb7a493f6948966aa39b93312b3bea6561"
+    sha256 "sha256:db268c745ac54da2e66ff7805069bff5e444f5c5dc6c1399b76a0e9fe9258276"
   
     url "https://github.com/Noah-Johann/MusicNotch/releases/latest/download/MusicNotch.dmg"
     name "MusicNotch"
